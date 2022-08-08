@@ -1,9 +1,11 @@
 
 
 hello 创建的第一个文件 使用liux命yy令
-p:wqasdjladZZ` 
-  我是大帅哥 哈哈哈哈努力卷出村子
-
+z 
+z 
+z
+zz
+z	a	Q S Q 	Z 	ZIi
 
   我是第三个程序经行了操作 对该文件经行修改 开始经行修改 git的大致印象
       Workspace： 工作区，就是你平时存放项目代码的地方
@@ -25,3 +27,5 @@ git的工作流程一般是这样的：
 
 因此，git管理的文件有三种状态：已修改（modified）,已暂存（staged）,已提交(committed)
     vim 文件名经行求改 i 插入模式 esc 推出 大写ZZ直接保存
+    现在是分支惊醒操做
+    不是主线
